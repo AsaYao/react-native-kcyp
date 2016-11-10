@@ -1,0 +1,3 @@
+rootProject.name = 'KCYP'
+
+include ':app'

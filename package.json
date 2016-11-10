@@ -1,0 +1,20 @@
+{
+  "name": "KCYP",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.2.1",
+    "react-native": "0.31.0",
+    "react-native-baidumap": "0.0.14",
+    "react-native-button": "^1.7.1",
+    "react-native-image-picker": "^0.22.8",
+    "react-native-scrollable-tab-view": "^0.4.1",
+    "react-native-swiper": "^1.4.9",
+    "react-redux": "^4.4.1",
+    "redux": "^3.3.1",
+    "redux-thunk": "^2.0.1"
+  }
+}
